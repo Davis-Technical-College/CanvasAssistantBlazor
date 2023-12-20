@@ -10,6 +10,10 @@ Canvasser is targeted towards **teachers** and **schools** as a tool to maximize
 
 To start using Canvasser load the website and login. Once logged in you can start working on submitted assignments. To navigate to a specific assignment click on the status block and click the assignment link to be taken to the assignment. Once you are finished grading the assignment when you go back to canvaser the graded assignment will be gone.
 
+## Good First Issues
+
+To find current issues and to discuss issues head to the [issues](https://github.com/Davis-Technical-College/CanvasAssistantBlazor/issues) page and find an issue that interests you!
+
 ## License
 
 Canvasser is licensed under the [MIT License](https://github.com/Davis-Technical-College/CanvasAssistantBlazor/blob/master/LICENSE.txt)
