@@ -7,6 +7,11 @@ This is a rebuild of a project used to help improve efficiency when grading assi
 was made using Next.js, while this rebuild uses Blazor. A running version of the old build can be found [here](https://canvasser.vercel.app/).
 This project is currently a work in progress, and is not functioning.
 
+## Ways to Contibute
+ 1. Report bugs: Feel free to submit an issue if you find any bugs.
+ 2. Suggest code: If you can't help with the code itself but have some great ideas, please tell us about them by messaging or opening up an issue.
+ 3. Add to the code: If you would like to contribute some code, even a small amount we would be grateful. Please follow the instructions below to get started. 
+
 ## Getting Started
 - Fork the repo: https://github.com/Davis-Technical-College/CanvasAssistantBlazor
 - Clone the repo to your local machine from the fork.
