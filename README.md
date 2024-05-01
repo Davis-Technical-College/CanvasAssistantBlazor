@@ -31,12 +31,12 @@ Information on how to setup Visual Studio on your own device can be found in the
  4. The app will function without the certificates installed, but your connection will **not** be secure.
  5. Congrats, the app has opened!
  
-## License
-This project is licensed under the MIT License - see the LICENSE.txt file for details.
-
 
 ## Credits
 George Ray,
 Joseph Plaizer,
 Derek Mowry,
 William Cummings
+
+## License
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
