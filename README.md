@@ -20,7 +20,7 @@ Install [.NET SDK C#](https://dotnet.microsoft.com/en-us/download) extension on 
 ## Help
 Ensure that you are running an updated Visual Studio or text editor, and an updated .NET SDK. Currently the program is using version 8.0. It wont run on an earlier version.
 
-As of 2/28/2024 the only pages available are a 'Hello, world!' page with a counter that increments by 3, another counter page that increments by one, and a weather page using randomized placeholder data.
+As of 6/19/2024 the only pages available are a 'Hello, world!' page with a counter that increments by 3, another counter page that increments by one, and a weather page using randomized placeholder data.
 
 Information on how to setup Visual Studio on your own device can be found in the [Visual Studio Setup](/docs/VisualStudioSetup.md) docs.  It also has some information for running the project on DTC computers.
 
@@ -39,4 +39,5 @@ This project is licensed under the MIT License - see the LICENSE.txt file for de
 George Ray,
 Joseph Plaizer,
 Derek Mowry,
-William Cummings
+William Cummings,
+Justin Lott
