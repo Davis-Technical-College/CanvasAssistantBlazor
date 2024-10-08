@@ -12,6 +12,7 @@ This project is currently a work in progress, and is not functioning.
 - Fork the repo: https://github.com/Davis-Technical-College/CanvasAssistantBlazor
 - Clone the repo to your local machine from the fork.
 - Check the Issues page on the original repo to see what may need work.
+- If you do not feel comfortable with current issues, work on README file and improve or add imprtant content.
 
 ### Dependencies
 Install [.NET SDK C#](https://dotnet.microsoft.com/en-us/download) extension on VS or Code Editor of choice.
