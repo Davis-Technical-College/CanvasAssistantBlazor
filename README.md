@@ -1,8 +1,9 @@
+![Davis Tech Logo](https://www.davistech.edu/media/tlmaw4xt/png-logo-horizontal_60.png)
+
 # CanvasAssistantBlazor
 This is the repo for the Final Competency Assignment in the SDEV 1090 - Version Control Fundamentals course.
 
-![Davis Tech Logo](https://www.davistech.edu/media/tlmaw4xt/png-logo-horizontal_60.png)
-
+## What is Canvas Assitant Blazor?
 This is a rebuild of a project used to help improve efficiency when grading assignments using Instructure's Canvas. The original, [Found Here](https://github.com/cdmccauley/canvasser),
 was made using Next.js, while this rebuild uses Blazor. A running version of the old build can be found [here](https://canvasser.vercel.app/).
 This project is currently a work in progress, and is not functioning.
