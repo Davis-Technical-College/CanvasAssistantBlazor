@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasAssistantBlazor", "CanvasAssistantBlazor\CanvasAssistantBlazor\CanvasAssistantBlazor.csproj", "{08A47F47-7EC8-4FCB-BCD8-6A479B52376A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanvasAssistantBlazor", "CanvasAssistantBlazor\CanvasAssistantBlazor\CanvasAssistantBlazor.csproj", "{08A47F47-7EC8-4FCB-BCD8-6A479B52376A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasAssistantBlazor.Client", "CanvasAssistantBlazor\CanvasAssistantBlazor.Client\CanvasAssistantBlazor.Client.csproj", "{85B3D85B-ACA6-403F-91E3-19B19FD84219}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanvasAssistantBlazor.Client", "CanvasAssistantBlazor\CanvasAssistantBlazor.Client\CanvasAssistantBlazor.Client.csproj", "{85B3D85B-ACA6-403F-91E3-19B19FD84219}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

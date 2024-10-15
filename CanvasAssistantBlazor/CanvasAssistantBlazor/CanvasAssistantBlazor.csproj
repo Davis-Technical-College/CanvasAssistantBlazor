@@ -10,6 +10,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\CanvasAssistantBlazor.Client\Pages\CustomTitle.razor" Link="CustomTitle.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\CanvasAssistantBlazor.Client\CanvasAssistantBlazor.Client.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.5" />
