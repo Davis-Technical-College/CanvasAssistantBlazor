@@ -49,3 +49,9 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
 }
+
+.homeTitle {
+    font-size: 1.25em;
+    color: #e50000;
+    font-weight: bold;
+}
