@@ -1,43 +1,92 @@
-# CanvasAssistantBlazor
-This is the repo for the Final Competency Assignment in the SDEV 1090 - Version Control Fundamentals course.
+# CanvasAssistantBlazor  
 
-![Davis Tech Logo](https://www.davistech.edu/media/tlmaw4xt/png-logo-horizontal_60.png)
+This repository contains the **Final Competency Assignment** for the SDEV 1090 - Version Control Fundamentals course.  
 
-This is a rebuild of a project used to help improve efficiency when grading assignments using Instructure's Canvas. The original, [Found Here](https://github.com/cdmccauley/canvasser),
-was made using Next.js, while this rebuild uses Blazor. A running version of the old build can be found [here](https://canvasser.vercel.app/).
-This project is currently a work in progress, and is not functioning.
+![Davis Tech Logo](https://www.davistech.edu/media/tlmaw4xt/png-logo-horizontal_60.png)  
 
-## Getting Started
-- Fork the repo: https://github.com/Davis-Technical-College/CanvasAssistantBlazor
-- Clone the repo to your local machine from the fork.
-- Check the Issues page on the original repo to see what may need work.
+**CanvasAssistantBlazor** is a rebuild of a project designed to improve efficiency when grading assignments on Instructure's Canvas.  
 
-### Dependencies
-Install [.NET SDK C#](https://dotnet.microsoft.com/en-us/download) extension on VS or Code Editor of choice.
-- .NET SDK version 8.0 or higher, an earlier version will not run the program.
-- C# extension on Visual Studio (preferred over VS Code) or another code editor of choice.
+- The original project, [Found Here](https://github.com/cdmccauley/canvasser), was built using Next.js.  
+- This rebuild uses **Blazor**.  
+- A running version of the original project is available [here](https://canvasser.vercel.app/).  
 
-## Help
-Ensure that you are running an updated Visual Studio or text editor, and an updated .NET SDK. Currently the program is using version 8.0. It wont run on an earlier version.
+> **Note**: This project is currently a **work in progress** and is not yet fully functional.  
 
-As of 2/28/2024 the only pages available are a 'Hello, world!' page with a counter that increments by 3, another counter page that increments by one, and a weather page using randomized placeholder data.
-Each of those can be accessed by clicking on the pane on the left side of the screen.
+---
 
-Information on how to setup Visual Studio on your own device can be found in the [Visual Studio Setup](/docs/VisualStudioSetup.md) docs.  It also has some information for running the project on DTC computers.
+## Table of Contents  
+1. [Getting Started](#getting-started)  
+2. [Dependencies](#dependencies)  
+3. [Help](#help)  
+4. [Steps to Run the Program](#steps-to-run-the-program-with-visual-studio)  
+5. [License](#license)  
+6. [Credits](#credits)  
 
-## Steps on running the program with Visual Studio
- 1. When you open the folder, you will see many files. Open up "CanvasAssistantBlazor.sln" with Visual studio **2022** or **NEWER**.
- 2. On the top of the screen. You will see **https** with a green arrow. Click on that to run the program (it may take a minute to run).
- 3. Once the program opens up, it will ask to save certificates to you computer. You will require Admin privilege to install them. **This is normal!**
- 4. The app will function without the certificates installed, but your connection will **not** be secure.
- 5. Congrats, the app has opened!
- 
-## License
-This project is licensed under the MIT License - see the LICENSE.txt file for details.
+---
 
+## Getting Started  
 
-## Credits
-George Ray,
-Joseph Plaizer,
-Derek Mowry,
-William Cummings
+1. **Fork the repository**: [CanvasAssistantBlazor](https://github.com/Davis-Technical-College/CanvasAssistantBlazor).  
+2. **Clone the fork** to your local machine using your preferred Git client.  
+3. Check the **Issues** page on the original repository to find tasks or areas needing work.  
+
+---
+
+## Dependencies  
+
+To run this project, you need the following:  
+
+- **.NET SDK version 8.0 or higher** (download [here](https://dotnet.microsoft.com/en-us/download)).  
+  - Earlier versions are **not** supported.  
+- **C# extension** in your code editor.  
+  - Visual Studio (preferred) or Visual Studio Code can be used.  
+  - Ensure that your editor is updated to the latest version for compatibility.  
+
+---
+
+## Help  
+
+Ensure your setup meets the following criteria:  
+
+- You are using an **updated version** of Visual Studio or your chosen code editor.  
+- You have installed the correct version of the **.NET SDK (8.0 or higher)**.  
+
+### Current Program Features (as of 2/28/2024):  
+- A **Hello, World!** page with a counter that increments by 3.  
+- Another counter page that increments by 1.  
+- A weather page displaying randomized placeholder data.  
+
+> All these pages can be accessed using the navigation pane on the left side of the screen.  
+
+### Additional Resources:  
+For setup instructions specific to Visual Studio, refer to the [Visual Studio Setup Documentation](/docs/VisualStudioSetup.md). This includes guidance for running the project on DTC computers.  
+
+---
+
+## Steps to Run the Program with Visual Studio  
+
+1. Open the repository folder and locate the `CanvasAssistantBlazor.sln` file.  
+2. Open this file using **Visual Studio 2022 or newer**.  
+3. At the top of the Visual Studio interface, click on the **HTTPS** button with the green arrow to run the program.  
+   - Note: Running the program may take a minute.  
+4. If prompted to save certificates to your computer:  
+   - Admin privileges are required to install the certificates.  
+   - The app will still function without them, but the connection will **not** be secure.  
+5. Once the program has opened successfully, you're ready to explore its features!  
+
+---
+
+## License  
+
+This project is licensed under the **MIT License**. See the [LICENSE.txt](LICENSE.txt) file for more details.  
+
+---
+
+## Credits  
+
+This project was developed by:  
+
+- George Ray  
+- Joseph Plaizer  
+- Derek Mowry  
+- William Cummings  
