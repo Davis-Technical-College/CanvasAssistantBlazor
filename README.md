@@ -18,6 +18,7 @@ This repository contains the **Final Competency Assignment** for the SDEV 1090 -
 1. [Getting Started](#getting-started)  
 2. [Dependencies](#dependencies)  
 3. [Help](#help)  
+4. [Program Features](#current-program-features-as-of-2282024)
 4. [Steps to Run the Program](#steps-to-run-the-program-with-visual-studio)  
 5. [License](#license)  
 6. [Credits](#credits)  
@@ -51,15 +52,18 @@ Ensure your setup meets the following criteria:
 - You are using an **updated version** of Visual Studio or your chosen code editor.  
 - You have installed the correct version of the **.NET SDK (8.0 or higher)**.  
 
-### Current Program Features (as of 2/28/2024):  
+### Additional Resources:  
+For setup instructions specific to Visual Studio, refer to the [Visual Studio Setup Documentation](/docs/VisualStudioSetup.md). This includes guidance for running the project on DTC computers.  
+
+---
+
+## Current Program Features (as of 2/28/2024):  
 - A **Hello, World!** page with a counter that increments by 3.  
 - Another counter page that increments by 1.  
 - A weather page displaying randomized placeholder data.  
 
 > All these pages can be accessed using the navigation pane on the left side of the screen.  
 
-### Additional Resources:  
-For setup instructions specific to Visual Studio, refer to the [Visual Studio Setup Documentation](/docs/VisualStudioSetup.md). This includes guidance for running the project on DTC computers.  
 
 ---
 
