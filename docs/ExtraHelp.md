@@ -10,6 +10,7 @@ Solution:
 
 Install the file directly as a zip file from github using the default file location.
 
+
 ![Zip Button Location](/docs/screenshots/download_as_zip.png)
 
 Extrcat the contents into the default location. 
