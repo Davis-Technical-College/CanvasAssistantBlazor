@@ -53,7 +53,9 @@ Ensure your setup meets the following criteria:
 - You have installed the correct version of the **.NET SDK (8.0 or higher)**.  
 
 ### Additional Resources:  
-For setup instructions specific to Visual Studio, refer to the [Visual Studio Setup Documentation](/docs/VisualStudioSetup.md). This includes guidance for running the project on DTC computers.  
+For setup instructions specific to Visual Studio, refer to the [Visual Studio Setup Documentation](/docs/VisualStudioSetup.md). This includes guidance for running the project on DTC computers.
+
+For some common issues when setting up or launcing the program refer to [Extra Help Page](/docs/ExtraHelp.md)
 
 ---
 
