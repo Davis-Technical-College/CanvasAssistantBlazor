@@ -64,7 +64,6 @@ For setup instructions specific to Visual Studio, refer to the [Visual Studio Se
 
 > All these pages can be accessed using the navigation pane on the left side of the screen.  
 
-
 ---
 
 ## Steps to Run the Program with Visual Studio  
