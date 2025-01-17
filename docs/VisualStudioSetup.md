@@ -98,7 +98,7 @@ You may also receive a warning when attempting to install the certificates.  Aga
 
 ![ASP.NET Core Certificate Installation Warning](/docs/screenshots/ASPnetCoreSecurityWarningsmall.jpg)
 
-6. You default browser should open.  If you are presented with a certificate warning, press Advanced and Accept the certificate to continue.
+6. Your default browser should open.  If you are presented with a certificate warning, press Advanced and Accept the certificate to continue.
 
 ![CanvasAssistantBlazor Webpage Certificate Warning](/docs/screenshots/WebpageCertificateError.jpg)
 
